@@ -2,10 +2,7 @@
 <?php include "header.php" ?>
 
 
-<div class="container">
-
-</div>
-
+<h1>Mano antraste</h1>
 
 
 
